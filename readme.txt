@@ -5,3 +5,6 @@ I made this project using
     A. Visual Studio Code
     B. Python 3.10.0
     C. Mysql workbench
+Hidden Files include:
+    A. data folder-containing images of dataset
+    B. classifier.xml-containing classification of dataset
